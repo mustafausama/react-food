@@ -35,9 +35,9 @@ const Footer = () => {
             <h3>contact info</h3>
             <a href="#n">+123-456-7890</a>
             <a href="#n">+111-222-3333</a>
-            <a href="#n">shaikhanas@gmail.com</a>
-            <a href="#n">anasbhai@gmail.com</a>
-            <a href="#n">mumbai, india - 400104</a>
+            <a href="#n">email-one@gmail.com</a>
+            <a href="#n">email-two@gmail.com</a>
+            <a href="#n">cairo, egypt - 12345</a>
           </div>
 
           <div className="box">
@@ -51,7 +51,7 @@ const Footer = () => {
 
         <div className="credit">
           {" "}
-          copyright @ 2021 by <span>mr. web designer</span>{" "}
+          copyright @ 2021 by <span>jsauce</span>{" "}
         </div>
       </section>
       <div class={"loader-container " + loaderContainerClass}>
